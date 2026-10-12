@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+*.pyc
+frontend/dist/
+gateway/dist/
+.pids/
+logs/
+backend/data/*.json
+.DS_Store
